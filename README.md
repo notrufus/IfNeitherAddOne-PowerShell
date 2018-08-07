@@ -1,7 +1,7 @@
 # IfNeitherAddOne-PowerShell
 Simple Powershell script so that if a user is not in either of the groups we're searching add them to one of them.
 
-This was initially setup to add all users who aren't in an MFA group or Non-MFA group added to the Non-MFA group.
+This was initially setup to add all users who aren't in an MFA group or Non-MFA group to the Non-MFA group.
 
 
 
